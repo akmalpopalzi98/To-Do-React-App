@@ -1,4 +1,4 @@
-# React To-Do App with Vite
+# To-Do App
 
 A simple to-do application built with React, Vite, Redux, and Material-UI components.
 
@@ -25,23 +25,15 @@ A simple to-do application built with React, Vite, Redux, and Material-UI compon
 
 ## Installation and Setup
 
-1. Clone the repository:
-
-cd todo-app
-
-Install dependencies:
-
-bash
-
-npm install
+    Clone the repository:
+    cd todo-app
+    npm install
 
 Start the development server:
 
-bash
+     npm run dev
 
-    npm run dev
 
-    Open the app in your browser at http://localhost:3000.
 
 
 
